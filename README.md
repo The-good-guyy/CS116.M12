@@ -1,7 +1,7 @@
-#`**`CS116.M12`**`
+### CS116.M12
 
 <br />
-`**`Decision tree progression`**`
+### Decision tree progression`**`
 
 <br/>
 
@@ -15,3 +15,10 @@ Dataset : https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-20
 | 1   | Trần Vĩ Hào | 19521482 |19521482@gm.uit.edu.vn|
 | 2   | Lê Đặng Đăng Huy| 19521612|19521612@gm.uit.edu.vn|https://github.com/hlhkudo
 | 3   |Tô Thanh Hiền| 19521490|19521490@gm.uit.edu.vn|https://github.com/The-good-guyy
+
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
